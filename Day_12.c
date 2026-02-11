@@ -26,3 +26,4 @@ int main() {
     printf("Symmetric Matrix");
     return 0;
 }
+// Day 12/100 marker
