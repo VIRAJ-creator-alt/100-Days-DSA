@@ -79,3 +79,5 @@ int main() {
     printf("\n");
     return 0;
 }
+
+// Day 100/100 marker
